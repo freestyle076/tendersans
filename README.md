@@ -2,4 +2,4 @@
 
 What?? The columns are unlabelled? What should we do? 
 
-## Thrown some R at it.
+## Throw some R at it.
